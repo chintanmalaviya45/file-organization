@@ -89,8 +89,6 @@ div.stButton > button:first-child:hover {
     background-color: #ee5253; /* Darker red on hover */
     transform: translateY(-2px);
 }
-
-
 div[data-testid="stDownloadButton"] > button:first-child {
     background-color: #4ecdc4 !important; /* Cyan/Teal color */
     color: #1e1e2d !important; /* Dark text */
